@@ -1,6 +1,7 @@
+
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350px" />
+  <img src="https://github.com/GuigohC0D3/GuigohC0D3/assets/6202604a5183f64600f4068e354f302c.jpg" alt="Banner Pixel Art" style="max-width:100%;"/>
 </p>
 
 <div align="center">
