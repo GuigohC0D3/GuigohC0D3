@@ -65,9 +65,11 @@
   <a href="https://instagram.com/guigohwerneck" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</br>
   <a href="https://github.com/GuigohC0D3" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  </br>
   <a href="https://linkedin.com/in/seu-usuario" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
