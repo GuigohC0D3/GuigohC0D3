@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/GuigohC0D3/GuigohC0D3/assets/6202604a5183f64600f4068e354f302c.jpg" alt="Banner Pixel Art" style="max-width:100%;"/>
+  <img src="[https://github.com/GuigohC0D3/GuigohC0D3/assets/6202604a5183f64600f4068e354f302c.jpg](https://github.com/user-attachments/assets/f60c19e2-3f63-473b-a442-240471607ca8)" alt="Banner Pixel Art" style="max-width:100%;"/>
 </p>
 
 <div align="center">
