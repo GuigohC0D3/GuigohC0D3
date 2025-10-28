@@ -3,7 +3,10 @@
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350px" />
 </p>
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Olá%2C+me+chamo+Guilherme+Ancheschi!;Desenvolvedor+Full+Stack+apaixonado+por+tecnologia.;Vamos+mudar+o+mundo+com+código!" alt="Typing SVG" /> </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+my+name+is+Guilherme+Ancheschi+Werneck+Pereira!;Full+Stack+Developer+passionate+about+technology.;Let's+change+the+world+with+code!" alt="Typing SVG" />
+</div>
+
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 ---
