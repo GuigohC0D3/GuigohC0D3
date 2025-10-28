@@ -37,13 +37,18 @@
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuigohC0D3&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuigohC0D3&layout=compact&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuigohC0D3&theme=radical"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuigohC0D3&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuigohC0D3&theme=radical" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
