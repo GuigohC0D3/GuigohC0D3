@@ -1,8 +1,6 @@
 
 <!-- Banner -->
-<p align="center">
-  <img src="[https://github.com/GuigohC0D3/GuigohC0D3/assets/6202604a5183f64600f4068e354f302c.jpg](https://github.com/user-attachments/assets/f60c19e2-3f63-473b-a442-240471607ca8)" alt="Banner Pixel Art" style="max-width:100%;"/>
-</p>
+![Image](https://github.com/user-attachments/assets/f60c19e2-3f63-473b-a442-240471607ca8)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+my+name+is+Guilherme+Ancheschi+Werneck+Pereira!;Full+Stack+Developer+passionate+about+technology.;Let's+change+the+world+with+code!" alt="Typing SVG" />
