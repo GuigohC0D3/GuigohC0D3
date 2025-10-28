@@ -62,13 +62,13 @@
 
 <!-- Footer Contact -->
 <p align="center">
-  <a href="https://instagram.com/guigohwerneck" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://instagram.com/guigohwerneck" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/GuigohC0D3" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://github.com/GuigohC0D3" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/guilherme-ancheschi-werneck-pereira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://linkedin.com/in/seu-usuario" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
