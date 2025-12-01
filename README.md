@@ -12,9 +12,9 @@
 
 <!-- Description -->
 <p align="center">
-🎓 I’m a lifelong learner passionate about <strong>technology, education</strong>, and <strong>transforming lives through code</strong>.  
-🔍 Currently focused on both <strong>frontend</strong> and <strong>backend development</strong>, exploring new tools and building purpose-driven projects.  
-🧠 Always learning, always coding. Let's change the world with code! 🚀
+I’m a lifelong learner passionate about <strong>technology, education</strong>, and <strong>transforming lives through code</strong>.  
+Currently focused on both <strong>frontend</strong> and <strong>backend development</strong>, exploring new tools and building purpose-driven projects.  
+Always learning, always coding. Let's change the world with code! 🚀
 </p>
 
 ---
