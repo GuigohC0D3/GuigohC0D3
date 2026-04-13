@@ -47,13 +47,13 @@ Always learning, always coding. Let's change the world with code! 🚀
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuigohC0D3&theme=blueberry" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuigohC0D3&theme=discord_old_blurple" />
       </td>
       <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuigohC0D3&theme=blueberry" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuigohC0D3&theme=discord_old_blurple" />
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuigohC0D3&theme=blueberry&utcOffset=8" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuigohC0D3&theme=discord_old_blurple&utcOffset=8" />
       </td>
     </tr>
   </table>
